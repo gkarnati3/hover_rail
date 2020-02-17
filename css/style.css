@@ -206,8 +206,8 @@ h6 {
 
 #header .logo img {
   padding: 0;
-  margin: 7px 0;
-  max-height: 26px;
+  /* margin: 7px 0; */
+  max-height: 50px;
 }
 
 .main-pages {
@@ -1574,4 +1574,15 @@ h6 {
   #footer .footer-top .social-links a {
     margin-bottom: 25px;
   }
+}
+
+.floating-bois {
+  max-height: 550px;
+  padding-top: 80px;
+  padding-left: 50px;
+  border-radius: 40%;
+}
+
+.img-header {
+  height: 500px;
 }
